@@ -1,0 +1,2 @@
+# Cowboy Cigarettes: A Time Series Investigation
+
